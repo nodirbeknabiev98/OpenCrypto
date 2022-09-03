@@ -26,7 +26,7 @@ Angular, React, Vue, Ember, Next, Meteor,Koa... are awesome iff you understand i
 **Hence**, taking into considerations all the aforementioned thoughts, I decided to write the simple,yet very interesting project, in order to learn and practice Vanilla JS.
 
 ## How to run / Setup 🔩
-**To use the app with only the main functionality**, you can follow the link: https://github.com/nodirbeknabiev98/OpenCrypto
+**To use the app with only the main functionality**, you can follow the link: https://nodirbeknabiev98.github.io/OpenCrypto/
 
 **To use the app with <u>full functionality</u>**, you should download the project source code and follow the instructions below<br>
 - Open /javascript/env/env-config.js 
